@@ -1,11 +1,11 @@
 /*!
- * JSValidation.js v1.5.12
- * https://fengyuanchen.github.io/cropperjs
- *
- * Copyright 2015-present Chen Fengyuan
- * Released under the MIT license
- *
- * Date: 2021-06-12T08:00:17.411Z
+ * JSValidation.js v1.0.0
+ * 
+ * Copyright (c) 2021 Yuto
+ * 
+ * This software is released under the MIT License.
+ * https://yutoshi104.github.io/jsvalidation/
+ * 
  */
 "use strict";
 var element = document.createElement("script");
